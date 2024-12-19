@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+    background-color: rgb(226, 226, 226);
+}
+
+header{
+    width: 1171px;
+    height: 50px;
+    display: flex;
+    gap: 447px;
+    justify-content: space-between;
+}
+header{
+    padding: 40px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    align-items: center;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+}
+nav ul li a:hover{
+    color: #FF7A50;
+}
+.btn{
+    padding: 12px 24px;
+    background-color: #FF7A50;
+    color: wheat;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+}
+.hero-text h2{
+    
+font-size: 66px;
+font-weight: 500;
+line-height: 78.21px;
+
+
+}
+.hero-text h2 span{
+    
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78.21px;
+    color: #FF7A50;
+    
+    }
+
+.hero-text p{
+      
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+margin-top: 23px;
+    }
+    .hero-text{
+width: 513px;
+    }
+ .hero-img  img{
+    width: 721px;
+    height: 681px;
+}
+.hero{
+    margin-top: 50px;
+    display: flex;
+}
+ .hero-text button{
+margin-top: 44px;
+
+}
+ .hero-text{
+    margin-top: 163px;
+}
+.s2 .hero-text {
+    margin-top: 0;
+
+}
+.s2 .hero-text p{
+    margin-top: 95px;
+}
+.s2 .hero-text button{
+    margin-top: 141px;
+    border-radius: 30px 30px 0px 30px;
+
+}
+.s2{
+    display: flex;
+    margin-top: 124px;
+}
+
+
+.s2 .hero-img{
+    margin-top: -60px;
+}
+
+.s3{
+    display: flex;
+    margin-top: 162px;
+    
+
+}
+footer h2{
+    
+font-size: 40px;
+font-weight: 500;
+line-height: 47.4px;
+color: white;
+margin-top: 100px;
+text-align: center;
+
+
+}
+
+
+input{
+    padding: 24px 588px 24px 43px;
+    border-radius: 30px;
+    margin-top: 72px;
+    margin-bottom: 56px;
+    margin-left: 180px;
+}
+footer{
+    background-color: #FF7A50;
+    border-radius: 20px;
+    margin-bottom: 197px;
+}
+footer .btn{
+border-radius: 30px;
+margin-left: -140px;
+}
+.card{
+width: 360px;
+background-color: white;
+border-radius: 50px 0 50px 0;
+}
+.s4 p{
+    margin-top: 14px;
+font-size: 18px;
+font-weight: 300;
+line-height: 30px;
+
+
+}
+.s4 h2{
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+.s4 button{
+    width: 50px;
+    height: 25px;
+ border-radius: 50px 50px 0 50px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.b{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-bottom: 22px;
+}
+
+.s4{
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+}
+
+
+
+
